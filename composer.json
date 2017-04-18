@@ -5,6 +5,9 @@
   "license": "GPL-2.0+",
   "minimum-stability": "dev",
   "prefer-stable": true,
+  "require": {
+    "composer/installers": "~1.0"
+  },
   "require-dev": {
     "drupal/drupal-extension": "^3.2"
   },
